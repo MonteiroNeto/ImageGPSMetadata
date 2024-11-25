@@ -36,6 +36,7 @@ Once completed, the text will change to "Editing completed!"
 
 Results:
 folder created with edited photos
+
 ![Screenshot from 2024-11-25 11-33-39](https://github.com/user-attachments/assets/e3e08558-c295-464d-9bb5-9a6d672f643f)
 
 
