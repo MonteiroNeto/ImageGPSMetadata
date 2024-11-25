@@ -41,6 +41,7 @@ folder created with edited photos
 
 
 altered images result
+
 ![Screenshot from 2024-11-25 11-34-30](https://github.com/user-attachments/assets/dfc2d7fa-0457-4c43-9e1a-6c02a3c08db1)
 
 ![Screenshot from 2024-11-25 11-36-17](https://github.com/user-attachments/assets/c7e43325-bada-4bee-99bb-8f2da03af8bb)
